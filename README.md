@@ -1,5 +1,6 @@
 # Eureka Discovery Server
 
+Implemented using Netflix Eureka server and client, it allows microservices to find and communicate with each other without hard-coding hostname and port. This is crucial in dynamic environments where the number of instances of a service can autoscale.
 
 Prompt to create discovery service server, client and registering client to eureka server
 
